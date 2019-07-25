@@ -18,30 +18,30 @@ body, #slider, .wrap, .slide-content{
 }
 
 .slide1{
-	background-image: url(images/responsibilities.jpg);
+	background-image: url(responsibilities.jpg);
 }
 .slide2{
 	background-image: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ), url(images/tech_skills.jpg);
 }
 .slide3{
-	background-image: url(images/team.png);
+	background-image: url(team.png);
 }
 .slide4{
-	background-image: url(images/benefits.jpg);
+	background-image: url(benefits.jpg);
 }
 .slide5{
-	background-image: url(images/dificulties.jpg);
+	background-image: url(dificulties.jpg);
 }
 .slide6{
 	
-	background-image:  url(images/future.jpg);
+	background-image:  url(future.jpg);
 	
 }
 .slide7{
-	background-image: url(images/field.jpg);
+	background-image: url(field.jpg);
 }
 .slide8{
-	background-image: url(images/advice.jpg);
+	background-image: url(advice.jpg);
 }
 
 .slide-content{
