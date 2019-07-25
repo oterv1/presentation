@@ -21,7 +21,7 @@ body, #slider, .wrap, .slide-content{
 	background-image: url(responsibilities.jpg);
 }
 .slide2{
-	background-image: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ), url(images/tech_skills.jpg);
+	background-image: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ), url(tech_skills.jpg);
 }
 .slide3{
 	background-image: url(team.png);
